@@ -1,21 +1,3 @@
-## <a name="introduction">🤖 Introduction</a>
-
-A storage management and file sharing platform that lets users effortlessly upload, organize, and share files. Built with the latest Next.js 15 and the Appwrite Node SDK, utilizing advanced features for seamless file management.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+**
-members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
-
-## <a name="tech-stack">⚙️ Tech Stack</a>
-
-- React 19
-- Next.js 15
-- Appwrite
-- TailwindCSS
-- ShadCN
-- TypeScript
-
 ## <a name="features">🔋 Features</a>
 
 👉 **User Authentication with Appwrite**: Implement signup, login, and logout functionality using Appwrite's authentication system.
@@ -90,23 +72,3 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
-
-## <a name="links">🔗 Assets</a>
-
-- Assets used in the project can be found [here](https://jsm.dev/gdrive-kit)
-
-<a href="https://jsm.dev/gdrive-kit">
-  <img src="public/readme/videokit.png" alt="Video Kit Banner">
-</a>
-
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsm.dev/gdrive-jsmpro" target="_blank">
-  <img src="public/readme/jsmpro.png" alt="Project Banner">
-</a>
