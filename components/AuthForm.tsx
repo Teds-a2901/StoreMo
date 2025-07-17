@@ -114,7 +114,7 @@ const AuthForm = ({ type }: { type: FormType }) => {
               className="ml-1 font-medium text-brand"
             >
               {" "}
-              {type === "sign-in" ? "Sign Up" : "Sign In"}
+              {type === "sign-in" ? "sign up" : "sign in"}
             </Link>
           </div>
         </form>
